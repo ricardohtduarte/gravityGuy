@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="600" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="csdc" tilewidth="36" tileheight="38">
+  <image source="originalBlock2.png" width="36" height="38"/>
+ </tileset>
+ <tileset firstgid="2" name="block1" tilewidth="35" tileheight="38">
+  <image source="originalBlock1.png" width="35" height="38"/>
+ </tileset>
+ <tileset firstgid="3" name="block3" tilewidth="15" tileheight="38">
+  <image source="block3.png" width="15" height="38"/>
+ </tileset>
+ <layer name="block2" width="600" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt3DsOgCAMAFCM97+zs5OmElrqewkzv6GlEMYAAAAAAAAAAAAAAAAAAICY40Nb3d+M/gGgg0jcPIuNp1os32WcAABPKtR1AIAcM+9gxPkYawkAAAAAAAAAAAAAdOMtOgAAyH8BAN7w/1VdK/4kUTsGgLtOcbLDHAAgU9bZOiMfUUPYmz0AAACA/7gAlFEBOA==
+  </data>
+ </layer>
+ <layer name="block3" width="600" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt3EEKwCAMBECh//9zTz1aKFrR7MwHjOawQcTWAAAAAAAAAAAAAAAAAABgvSt8fQBgzClZfkqdAABf/DnjmJ8AoC45P4+zBAAAAAAAAAAAAABSeD8NAEAS8y8AwDv/X/HQLwDoq5CTFfYAALtLuWfZqZZUegAAAAC13F/lADo=
+  </data>
+ </layer>
+ <layer name="block1" width="600" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt3MENwCAMBDDU/YdG3aAgtUkPe4EQ8sg9EGMAAAAAAAAAAAAAAAAAAMC6K7weACTqtk+7nWdHQg8AALc3c43MBAC92dX1zAAAAAAAAAAAAAAASOOdNAAAyMUAAE/4/6ov9wcA30vav0m9AECFql1aUVdu+DfzAwAAgLNMen0AKQ==
+  </data>
+ </layer>
+</map>
